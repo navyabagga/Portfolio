@@ -4,6 +4,12 @@ A Netflix-inspired personal portfolio for **Navya Bagga, AI Python Developer** a
 
 ---
 
+## Deployed URL
+
+https://navyabagga.github.io/Portfolio/
+
+---
+
 ## Profiles
 
 On the browse screen you pick who's watching — each profile opens the same portfolio content:
