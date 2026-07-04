@@ -1,10 +1,10 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import './TopPicksRow.css';
-import { FaCode, FaBriefcase, FaCertificate, FaEnvelope, FaHeart } from 'react-icons/fa';
+import { FaCode, FaBriefcase, FaEnvelope, FaHeart } from 'react-icons/fa';
 import guitarImg from '../images/guitar.jpg';
 import sunsetRoadImg from '../images/sunset road.jpg';
-import libraryImg from '../images/library.jpg';
+// import libraryImg from '../images/library.jpg';
 import lightHouseImg from '../images/light house.jpeg';
 import backyardImg from '../images/backyard.jpg';
 
