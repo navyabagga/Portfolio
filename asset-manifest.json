@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.b5f7e5a2.css",
-    "main.js": "/Portfolio/static/js/main.bfa0600a.js",
-    "static/js/453.92cd64ce.chunk.js": "/Portfolio/static/js/453.92cd64ce.chunk.js",
+    "main.css": "/Portfolio/static/css/main.6bb011c7.css",
+    "main.js": "/Portfolio/static/js/main.e124522f.js",
+    "static/js/453.b0cd7502.chunk.js": "/Portfolio/static/js/453.b0cd7502.chunk.js",
     "static/media/mountains.jpg": "/Portfolio/static/media/mountains.f2bb7045554e9cced078.jpg",
-    "static/media/library.jpg": "/Portfolio/static/media/library.3c4b8cd316e2afdb6cd3.jpg",
-    "static/media/Navya Bagga Black.png": "/Portfolio/static/media/Navya Bagga Black.299fab62a0c9fa8c14d9.png",
+    "static/media/Navya Bagga Black.png": "/Portfolio/static/media/Navya Bagga Black.37000dece8701cce4ba8.png",
     "static/media/backyard.jpg": "/Portfolio/static/media/backyard.1a9e830a1bcc8268c0ce.jpg",
     "static/media/light house.jpeg": "/Portfolio/static/media/light house.1af46e860ae472d8cd0e.jpeg",
     "static/media/guitar.jpg": "/Portfolio/static/media/guitar.c0e8421741202932bc86.jpg",
@@ -21,14 +20,13 @@
     "static/media/oneorder logo.jpg": "/Portfolio/static/media/oneorder logo.a17f74787d367bf624f6.jpg",
     "static/media/Navya Logo.PNG": "/Portfolio/static/media/Navya Logo.608ddc0f1abf040e6ea5.PNG",
     "index.html": "/Portfolio/index.html",
-    "static/media/guns-n-roses.webp": "/Portfolio/static/media/guns-n-roses.8a888aa54891cefaa737.webp",
     "static/media/placeholder.svg": "/Portfolio/static/media/placeholder.8a888aa54891cefaa7379a2d0e21eaa3.svg",
-    "main.b5f7e5a2.css.map": "/Portfolio/static/css/main.b5f7e5a2.css.map",
-    "main.bfa0600a.js.map": "/Portfolio/static/js/main.bfa0600a.js.map",
-    "453.92cd64ce.chunk.js.map": "/Portfolio/static/js/453.92cd64ce.chunk.js.map"
+    "main.6bb011c7.css.map": "/Portfolio/static/css/main.6bb011c7.css.map",
+    "main.e124522f.js.map": "/Portfolio/static/js/main.e124522f.js.map",
+    "453.b0cd7502.chunk.js.map": "/Portfolio/static/js/453.b0cd7502.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5f7e5a2.css",
-    "static/js/main.bfa0600a.js"
+    "static/css/main.6bb011c7.css",
+    "static/js/main.e124522f.js"
   ]
 }
